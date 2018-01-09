@@ -49,10 +49,6 @@ And Use the following credentials once set up is complete
 * **Malama Kasanda** - *Initial work* - [mkasanda](https://github.com/mkasanda/Clinic)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Reuben Chisebu
