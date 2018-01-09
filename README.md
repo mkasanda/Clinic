@@ -41,7 +41,7 @@ And Use the following credentials once set up is complete
 ## Built With
 
 * [PHP](http://php.net/) - PHP programming language for server side
-* [Ajax] - Complimentary
+* Ajax - Complimentary
 
 
 ## Authors
