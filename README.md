@@ -1,6 +1,6 @@
 # Clinic
 
-This is a course project in the Database and Project Management Course at University of Zambia. The project mimics a real live project from requirements gathering to user testing and acceptance. In addition, this is a CRUD application that implements a queue functionality for attending to patients for a clinic.
+This is a course project in the Database and Project Management Course at University of Zambia. The project mimics a real live project from requirements gathering to user testing and acceptance. In addition, this is a CRUD application that implements a queue functionality for attending to patients for a clinic. Please read through the report clinic_report.pdf for more details.
 
 
 ### Prerequisites
